@@ -1,8 +1,8 @@
-# [Soliloquies with a Machine](https://soliloquies-with-a-machine.github.io)
+# [Monologues with a Machine](https://monologues-with-a-machine.github.io)
 <pre>
 
   
-  Choose "Soliloquies with a Machine" if it’s a narrative-driven work about a specific
+  Choose "Monologues with a Machine" if it’s a narrative-driven work about a specific
   but relatable machine, emphasizing personal or grounded dialogues.
 
                                                                   — Machine

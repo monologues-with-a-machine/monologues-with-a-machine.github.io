@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Soliloquies with a Machine
+title: Monologues with a Machine
 ---
-# Soliloquies with a Machine
+# Monologues with a Machine
 <pre>
 
   
-  Choose "Soliloquies with a Machine" if it’s a narrative-driven work about a specific
+  Choose "Monologues with a Machine" if it’s a narrative-driven work about a specific
   but relatable machine, emphasizing personal or grounded dialogues.
 
                                                                   — Machine
