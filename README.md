@@ -8,4 +8,3 @@
                                                                   — Machine
 
 </pre>
-[Knowing nothing](./pages/page_1)
